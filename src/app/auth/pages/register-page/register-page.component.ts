@@ -18,7 +18,7 @@ export class RegisterPageComponent {
   });
 
   register(){
-    console.log(this.registerForm.value);
+    console.log("ya casi terminamos");
 
   }
 }
